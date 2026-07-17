@@ -3,10 +3,7 @@ hi
 123456
 
 24680
-<<<<<<< HEAD
 it's me Hoang
-=======
 
 
 HuyDino
->>>>>>> ee1e1b75997da69c174e23f88a682073e44a362c
